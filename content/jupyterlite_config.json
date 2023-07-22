@@ -1,0 +1,12 @@
+{
+  "jupyterlite": {
+    "contents": {
+      "preload": {
+        "packages": [
+          "pandas",
+          "matplotlib"
+        ]
+      }
+    }
+  }
+}
