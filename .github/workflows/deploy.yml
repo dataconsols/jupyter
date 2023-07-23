@@ -24,6 +24,7 @@ jobs:
         uses: mamba-org/provision-with-micromamba@main
         with:
           micromamba-version: '1.4.2'
+          environment-file: build-environment.yaml
           environment-name: myenv
 
       - name: Build the JupyterLite site
