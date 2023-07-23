@@ -21,7 +21,7 @@ jobs:
           python-version: '3.10'
 
       - name: Install mamba
-        uses: mamba-org/provision-with-micromamba@v1
+        uses: mamba-org/provision-with-micromamba@main
         with:
           micromamba-version: '1.4.2'
           environment-name: myenv
