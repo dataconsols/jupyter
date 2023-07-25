@@ -5,4 +5,7 @@ channels:
 dependencies:
   - matplotlib
   - pandas
-  
+  - ipycanvas
+  - tensorflow
+  - keras
+  - torch  
