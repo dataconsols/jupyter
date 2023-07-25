@@ -6,6 +6,8 @@ dependencies:
   - matplotlib
   - pandas
   - ipycanvas
-  - unittest
+  - scipy
+  - joblib
+  - threadpoolctl
   - scikit-learn
  
