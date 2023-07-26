@@ -1,7 +1,6 @@
 name: build-env
 channels:
   - conda-forge
-  - emscripten-forge
 dependencies:
   - python
   - pip
