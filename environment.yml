@@ -9,6 +9,5 @@ dependencies:
   - scipy
   - joblib
   - threadpoolctl
-  - unittest2
   - scikit-learn
  
